@@ -1,0 +1,4 @@
+﻿  ShapeSkin.cpp
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA6\A6\src\ShapeSkin.cpp(252): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA6\A6\src\ShapeSkin.cpp(261): warning C4018: '<': signed/unsigned mismatch
+  A6.vcxproj -> C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA6\A6\build\Debug\A6.exe
